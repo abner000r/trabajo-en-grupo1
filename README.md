@@ -3,11 +3,6 @@
 - Fecha : 08/05/2024
 - Carrera: Desarrollador FullStack
 
-|Carnet|Nombre|
-|-|-|
-|2023-006160|Benjamin Sincal|
-|2022-080652|Abner Muñoz|
-|2021-094246|Wesley Pacay|
 
 
 ### Descripcion de Proyecto
@@ -17,3 +12,8 @@
 > Problema 3 : Formulario que solicite el ingreso de 4 valores númericos.
 > Problema 4 : Formulario que permita el ingreso de 4 números.
 
+|Carnet|Nombre|
+|-|-|
+|2023-006160|Benjamin Sincal|
+|2022-080652|Abner Muñoz|
+|2021-094246|Wesley Pacay|
