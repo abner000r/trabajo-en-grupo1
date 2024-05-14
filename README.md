@@ -3,7 +3,7 @@
 - Fecha : 08/05/2024
 - Carrera: Desarrollador FullStack
 
-||Carnet|Nombre|
+|Carnet|Nombre|
 |------|------|
 |2022-080652|Abner Muñoz|
 
@@ -14,6 +14,3 @@
 > Problema 3 : Formulario que solicite el ingreso de 4 valores númericos.
 > Problema 4 : Formulario que permita el ingreso de 4 números.
 
-||Carnet|Nombre|
-|------|------|
-|2022-080652|Abner Muñoz|
