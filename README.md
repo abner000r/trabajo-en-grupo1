@@ -3,6 +3,10 @@
 - Fecha : 08/05/2024
 - Carrera: Desarrollador FullStack
 
+||Carnet|Nombre|
+|------|------|
+|2022-080652|Abner Muñoz|
+
 ### Descripcion de Proyecto
 > El proyecto cuenta con 4 paginas: 
 > Problema 1 : Formulario que permita el ingreso de 5 textos
