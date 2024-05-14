@@ -6,9 +6,9 @@
 |Carnet|Nombre|
 |-|-|
 |2023-006160|Benjamin Sincal|
-|||
+
 |2022-080652|Abner Muñoz|
-|||
+
 |2021-094246|Wesley Pacay|
 
 ### Descripcion de Proyecto
