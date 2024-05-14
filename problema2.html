@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>problema 2</title>
+    <script src="JS/problema2.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+
+</head>
+<body>
+    <nav class="navbar bg-body-tertiary">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="https://www.intecap.edu.gt/centros/cti/">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Logotipo_de_el_INTECAP.png" alt="Logo"
+                    width="280" height="" class="d-inline-block align-text-top">
+            </a>
+
+        </div>
+    </nav>
+    <nav class="p-5 nav justify-content-center">
+        <ul class="nav justify-content-center">
+            <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="index.html">
+                    <h2>Inicio</h2>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="">
+                    <h2>Solución 2</h2>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="">
+                    <h2>Solución 4</h2>
+                </a>
+            </li>
+        </ul>
+    </nav>
+    <div class="row">
+        <div class="col-4">
+
+        </div>
+        <div class="col-4" id="calculatorForm" >
+            <h3 class="text-center">Valores Numéricos</h3>
+            <div class="mb-3">
+                <label for="value1" class="form-label"></label>
+                <div class="input-group mb-3">
+                    <span class="input-group-text">Número 1</span>
+                    <input type="number" class="form-control text-center" placeholder="Coloca un número" id="value1"
+                        aria-label="">
+                </div>
+            </div>
+            <div class="mb-3">
+                <label for="value2" class="form-label"></label>
+                <div class="input-group mb-3">
+                    <span class="input-group-text">Número 2</span>
+                    <input type="number" class="form-control text-center" placeholder="Coloca un número" id="value2"
+                        aria-label="">
+                </div>
+            </div>
+            <div class="mb-3">
+                <label for="value3" class="form-label"></label>
+                <div class="input-group mb-3">
+                    <span class="input-group-text">Número 3</span>
+                    <input type="number" class="form-control text-center" placeholder="Coloca un número" id="value3"
+                        aria-label="">
+                </div>
+            </div>
+            <div class="mb-3">
+                <label for="value4" class="form-label"></label>
+                <div class="input-group mb-3">
+                    <span class="input-group-text">Número 4</span>
+                    <input type="number" class="form-control text-center" placeholder="Coloca un número" id="value4"
+                        aria-label="">
+
+                </div>
+            </div>
+            <br>
+            <div class="d-grid gap-2">
+                <button class="btn btn-primary" type="button" onclick="calculateAverage()">Calcular Promedio</button>
+                <button class="btn btn-primary" type="button" onclick="checkEquality()">Verificar Igualdad</button>
+                <button class="btn btn-primary" type="button" onclick="findMax()">Encontrar Mayor</button>
+
+            </div>
+          
+           <h2>Respuesta</h2>
+            <div>
+                <p class="p-5 bg-success-subtle text-center" id="result"></p>
+            </div>
+        </div>
+
+
+        <div class="col-4">
+            <div class="row">
+                <div class="text-center">
+                    <h3>Creado Por:</h3>
+                    <h4>Abner Aarón Muñoz Xoy</h4>
+                </div>
+            </div>
+            <div class="row">
+                <div class="text-center">
+                    <img src="https://yt3.googleusercontent.com/72to4u2Kf6DllNJP3NoYYVppvNWelItQKNM7WGuZ0i6YrqcPKJrxj9M600gzYrLEtZSgRIbpcw=s900-c-k-c0x00ffffff-no-rj"
+                        alt="" width="300" class="img-fluid">
+                        <div id="result"></div>
+
+                </div>
+            </div>
+         
+            <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+                integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+                crossorigin="anonymous"></script>
+
+</body>
+</html>
