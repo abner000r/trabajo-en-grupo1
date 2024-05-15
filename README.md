@@ -11,7 +11,7 @@
 >Problema 4 COntiene un formulario que permita el ingreso de 4 números
 
 |Carnet|Nombre|
-
+|-|-|
 |2023-006160|Benjamin Sincal|
 |2022-080652|Abner Muñoz|
 |2021-094246|Wesley Pacay|
